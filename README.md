@@ -1,1 +1,3 @@
-# chess-ai
+# Chess AI
+
+>npm install && npm start
